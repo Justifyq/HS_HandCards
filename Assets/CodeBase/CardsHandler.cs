@@ -1,9 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using CodeBase.CardLogic;
+using CodeBase.UI;
 using UnityEngine;
 
-namespace CodeBase.UI
+namespace CodeBase
 {
     public class CardsHandler : MonoBehaviour
     {

@@ -3,7 +3,7 @@ using CodeBase.CardLogic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace CodeBase.UI
+namespace CodeBase
 {
     public class CardRandomValueChanger : MonoBehaviour
     {
